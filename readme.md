@@ -1,3 +1,5 @@
+# Minimal di Encrypt kalo mau share, jangan yang opensource kamu share dengan gamblang, "ttd yang punya script"
+
 ## Tested only on Ubuntu 20.04<br>
   
   ```html
